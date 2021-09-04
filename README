@@ -7,6 +7,8 @@ sqlite
 
 - Alternative to self-handled file storage with fopen, as well as JSON,
 XML, etc. Create, edit, query, update, remove etc. for tabular data.
+Free from handling the troublesome text encodings, endians, text quotes,
+compressing etc..
 
 - Cross-platform data: no madness for using files between big-endian and
 little-endian architectures.
